@@ -1,0 +1,12 @@
+/* ReviewPage.css */
+.reviewCard {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .reviewCard:hover {
+    transform: scale(1.05); /* Slightly enlarges the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Adds a shadow effect */
+  }
+  
