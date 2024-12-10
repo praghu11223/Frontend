@@ -1,0 +1,10 @@
+body {
+  background: url('https://source.unsplash.com/random/1600x900') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+.MuiContainer-root {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+}
